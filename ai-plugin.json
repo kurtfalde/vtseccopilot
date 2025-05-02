@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Microsoft Threat Intel Plugin",
+  "name_for_model": "microsoft_virustotal_plugin",
+  "description_for_human": "Query VirusTotal for threat intelligence on files, URLs, domains, and IPs.",
+  "description_for_model": "Use this plugin to analyze files, URLs, IP addresses, and domains using VirusTotal.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://<your-domain-or-repo>/openapi.yaml"
+  },
+  "logo_url": "https://www.microsoft.com/favicon.ico",
+  "contact_email": "support@microsoft.com",
+  "legal_info_url": "https://www.microsoft.com/en-us/legal"
+}
