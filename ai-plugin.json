@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://<your-domain-or-repo>/openapi.yaml"
+    "url": "https://raw.githubusercontent.com/kurtfalde/vtseccopilot/refs/heads/main/openapi.yaml"
   },
   "logo_url": "https://www.microsoft.com/favicon.ico",
   "contact_email": "support@microsoft.com",
